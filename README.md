@@ -67,6 +67,3 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 ## 🏛️ Lab
 
 Part of [MANARA Lab](https://github.com/MANARA-Lab-UM6P) — College of Computing, UM6P.
-```
-
----
