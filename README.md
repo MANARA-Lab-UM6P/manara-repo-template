@@ -1,0 +1,1 @@
+# manara-repo-template
