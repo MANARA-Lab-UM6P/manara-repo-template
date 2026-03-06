@@ -1,6 +1,6 @@
 # Contributing to this Repository
 
-This repository is part of MANARA Lab at UM6P College of Computing.
+This repository is part of MANARA Lab (Multimodal AI, Networks, Analytics, Recommender Systems & Augmented Sensing Laboratory) at UM6P College of Computing.
 
 ## Guidelines
 
