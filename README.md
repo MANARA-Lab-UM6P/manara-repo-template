@@ -60,10 +60,10 @@ Describe what the user should see after running the code.
 
 ## 📜 License
 
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License; see [LICENSE](LICENSE) for details.
 
 ---
 
 ## 🏛️ Lab
 
-Part of [MANARA Lab](https://github.com/MANARA-Lab-UM6P) — College of Computing, UM6P.
+Part of [MANARA Lab](https://github.com/MANARA-Lab-UM6P), College of Computing, UM6P.
